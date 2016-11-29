@@ -1,0 +1,37 @@
+body{ 
+	background-image: url("http://www.trtspor.com/resimler/56000/56233.jpg");
+	background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#cuadro1{
+	display: flex;
+	justify-content: center;
+}
+   
+html{
+	display: flex;
+	justify-content: center;
+}
+#fila1{
+	height: 100px; 
+	width: 615px;
+	display: flex;
+	border: 2px solid blue;
+}
+#fila2{
+	height: 100px; 
+	width: 615px;
+	display: flex;
+	border: 2px solid blue;
+}
+.imagen{
+	height: 98px;
+	width: 120px;
+	border: 2px solid blue;
+}
+.imagen1{
+	height: 98px;
+	width: 120px;
+	border: 2px solid blue;
+}
